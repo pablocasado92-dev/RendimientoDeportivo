@@ -1,0 +1,961 @@
+[ {
+  "id" : "DEP-001",
+  "nombre" : "Carlos Gomez",
+  "edad" : 26,
+  "categoria" : "Senior",
+  "objetivoCompeticion" : "Sub 17:30 en 5K Valencia",
+  "marcaInicial5k" : 1140.0,
+  "rutaFoto" : null,
+  "sesiones" : [ {
+    "fecha" : "2026-09-07",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-08",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-10",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-12",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-14",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-15",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-17",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-19",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-21",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-22",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-24",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-26",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-28",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-29",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-01",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-03",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-05",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-06",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-08",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-10",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-12",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-13",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-15",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-17",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-19",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-20",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-22",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-24",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-26",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-27",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-29",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-31",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-11-02",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-11-03",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-11-05",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-11-07",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-11-09",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 49,
+    "distanciaKm" : 9.350000000000001,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-11-10",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 60,
+    "distanciaKm" : 11.22,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-11-12",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 55,
+    "distanciaKm" : 10.780000000000001,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-11-14",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 82,
+    "distanciaKm" : 15.950000000000001,
+    "fcMedia" : 150,
+    "rpe" : 6
+  } ],
+  "tests" : [ {
+    "fecha" : "2026-09-13",
+    "marcaSegundos" : 1142.5,
+    "semanasDesdeInicio" : 1.0,
+    "marcaFormateada" : "19:02.5"
+  }, {
+    "fecha" : "2026-09-20",
+    "marcaSegundos" : 1126.0,
+    "semanasDesdeInicio" : 2.0,
+    "marcaFormateada" : "18:46.0"
+  }, {
+    "fecha" : "2026-10-04",
+    "marcaSegundos" : 1105.0,
+    "semanasDesdeInicio" : 4.0,
+    "marcaFormateada" : "18:25.0"
+  }, {
+    "fecha" : "2026-10-18",
+    "marcaSegundos" : 1076.0,
+    "semanasDesdeInicio" : 6.0,
+    "marcaFormateada" : "17:56.0"
+  }, {
+    "fecha" : "2026-11-01",
+    "marcaSegundos" : 1051.0,
+    "semanasDesdeInicio" : 8.0,
+    "marcaFormateada" : "17:31.0"
+  }, {
+    "fecha" : "2026-11-15",
+    "marcaSegundos" : 1030.0,
+    "semanasDesdeInicio" : 10.0,
+    "marcaFormateada" : "17:10.0"
+  } ]
+}, {
+  "id" : "DEP-002",
+  "nombre" : "Lucia Morales",
+  "edad" : 21,
+  "categoria" : "Sub-23",
+  "objetivoCompeticion" : "Podio Campeonato Autonomico",
+  "marcaInicial5k" : 1260.0,
+  "rutaFoto" : null,
+  "sesiones" : [ {
+    "fecha" : "2026-09-07",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-08",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-10",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-12",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-14",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-15",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-17",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-19",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-21",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-22",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-24",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-26",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-28",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-29",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-01",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-03",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-05",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-06",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-08",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-10",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-12",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-13",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-15",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-17",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-19",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-20",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-22",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-24",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-26",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-27",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-29",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-31",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-11-02",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-11-03",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-11-05",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-11-07",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-11-09",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.075,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-11-10",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 52,
+    "distanciaKm" : 9.69,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-11-12",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 47,
+    "distanciaKm" : 9.31,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-11-14",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 71,
+    "distanciaKm" : 13.774999999999999,
+    "fcMedia" : 150,
+    "rpe" : 6
+  } ],
+  "tests" : [ {
+    "fecha" : "2026-09-13",
+    "marcaSegundos" : 1262.5,
+    "semanasDesdeInicio" : 1.0,
+    "marcaFormateada" : "21:02.5"
+  }, {
+    "fecha" : "2026-09-20",
+    "marcaSegundos" : 1249.5,
+    "semanasDesdeInicio" : 2.0,
+    "marcaFormateada" : "20:49.5"
+  }, {
+    "fecha" : "2026-10-04",
+    "marcaSegundos" : 1235.5,
+    "semanasDesdeInicio" : 4.0,
+    "marcaFormateada" : "20:35.5"
+  }, {
+    "fecha" : "2026-10-18",
+    "marcaSegundos" : 1213.5,
+    "semanasDesdeInicio" : 6.0,
+    "marcaFormateada" : "20:13.5"
+  }, {
+    "fecha" : "2026-11-01",
+    "marcaSegundos" : 1195.5,
+    "semanasDesdeInicio" : 8.0,
+    "marcaFormateada" : "19:55.5"
+  }, {
+    "fecha" : "2026-11-15",
+    "marcaSegundos" : 1181.5,
+    "semanasDesdeInicio" : 10.0,
+    "marcaFormateada" : "19:41.5"
+  } ]
+}, {
+  "id" : "DEP-003",
+  "nombre" : "Marcos Ruiz",
+  "edad" : 42,
+  "categoria" : "Master 40",
+  "objetivoCompeticion" : "Bajar de 19 minutos en 5K",
+  "marcaInicial5k" : 1210.0,
+  "rutaFoto" : null,
+  "sesiones" : [ {
+    "fecha" : "2026-09-07",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-08",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-10",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-12",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-14",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-15",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-17",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-19",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-21",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-22",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-09-24",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-09-26",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-09-28",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-09-29",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-01",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-03",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-05",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-06",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-08",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-10",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-12",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-13",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-15",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-17",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-19",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-20",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-22",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-24",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-10-26",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-10-27",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-10-29",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-10-31",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-11-02",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-11-03",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-11-05",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-11-07",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  }, {
+    "fecha" : "2026-11-09",
+    "tipo" : "Rodaje Suave",
+    "duracionMinutos" : 38,
+    "distanciaKm" : 7.225,
+    "fcMedia" : 142,
+    "rpe" : 5
+  }, {
+    "fecha" : "2026-11-10",
+    "tipo" : "Series 1000m",
+    "duracionMinutos" : 46,
+    "distanciaKm" : 8.67,
+    "fcMedia" : 172,
+    "rpe" : 8
+  }, {
+    "fecha" : "2026-11-12",
+    "tipo" : "Ritmo Controlado",
+    "duracionMinutos" : 42,
+    "distanciaKm" : 8.33,
+    "fcMedia" : 158,
+    "rpe" : 7
+  }, {
+    "fecha" : "2026-11-14",
+    "tipo" : "Tirada Larga",
+    "duracionMinutos" : 63,
+    "distanciaKm" : 12.325,
+    "fcMedia" : 150,
+    "rpe" : 6
+  } ],
+  "tests" : [ {
+    "fecha" : "2026-09-13",
+    "marcaSegundos" : 1212.5,
+    "semanasDesdeInicio" : 1.0,
+    "marcaFormateada" : "20:12.5"
+  }, {
+    "fecha" : "2026-09-20",
+    "marcaSegundos" : 1202.5,
+    "semanasDesdeInicio" : 2.0,
+    "marcaFormateada" : "20:02.5"
+  }, {
+    "fecha" : "2026-10-04",
+    "marcaSegundos" : 1194.5,
+    "semanasDesdeInicio" : 4.0,
+    "marcaFormateada" : "19:54.5"
+  }, {
+    "fecha" : "2026-10-18",
+    "marcaSegundos" : 1178.5,
+    "semanasDesdeInicio" : 6.0,
+    "marcaFormateada" : "19:38.5"
+  }, {
+    "fecha" : "2026-11-01",
+    "marcaSegundos" : 1166.5,
+    "semanasDesdeInicio" : 8.0,
+    "marcaFormateada" : "19:26.5"
+  }, {
+    "fecha" : "2026-11-15",
+    "marcaSegundos" : 1158.5,
+    "semanasDesdeInicio" : 10.0,
+    "marcaFormateada" : "19:18.5"
+  } ]
+} ]
