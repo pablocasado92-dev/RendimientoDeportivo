@@ -1,6 +1,6 @@
 # Aplicación de Gestión y Análisis de Rendimiento Deportivo (2.º DAM)
 
-Aplicación de escritorio en **Java 17+ / Maven** desarrollada con **Java Swing, FlatLaf, Apache POI, Apache PDFBox y JFreeChart**.
+Aplicación de escritorio en **Java 25+ / Maven** desarrollada con **Java Swing, FlatLaf, Apache POI, Apache PDFBox y JFreeChart**.
 
 ---
 
